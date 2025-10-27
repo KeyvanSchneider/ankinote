@@ -50,7 +50,7 @@ If you enjoy it and want to support its development, you can buy me a coffee ☕
 ## 📦 Installation
 
 ### From AnkiWeb
-(coming soon — once the add-on is approved)
+(https://ankiweb.net/shared/info/99733811?cb=1761577539913)
 
 ### Manual install
 
