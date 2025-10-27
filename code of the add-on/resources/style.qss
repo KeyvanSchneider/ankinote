@@ -1,0 +1,16 @@
+/* style.qss — apparence de l’éditeur */
+QTextEdit {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 14px;
+    background-color: #1e1e1e;
+    color: #eaeaea;
+}
+QPushButton {
+    background-color: #3c3c3c;
+    color: #ffffff;
+    border-radius: 6px;
+    padding: 6px 10px;
+}
+QPushButton:hover {
+    background-color: #505050;
+}

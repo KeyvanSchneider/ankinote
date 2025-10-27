@@ -1,0 +1,12 @@
+{
+  "package": "notebook_editor",
+  "name": "Notebook Markdown Editor — Modern Edition",
+  "author": "Keyvan Schneider",
+  "version": "1.0",
+  "mod": 1,
+  "min_point_version": 65,
+  "max_point_version": 99,
+  "homepage": "https://ankiweb.net/shared/",
+  "conflicts": []
+}
+
