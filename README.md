@@ -22,6 +22,19 @@ It opens in a smooth dockable panel and supports folders, autosave.
 
 ---
 
+## 💖 Support the project
+
+AnkiNote is free and open-source.  
+If you enjoy it and want to support its development, you can buy me a coffee ☕️ or make a small donation 💙
+
+<p align="center">
+  <a href="https://paypal.me/schneiderkeyvan" target="_blank">
+    <img src="https://img.shields.io/badge/💙%20Donate%20via%20PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
+</p>
+
+---
+
 ## ✨ Features
 
 - 📝 **Markdown note editor** (clean, minimal, autosave)
