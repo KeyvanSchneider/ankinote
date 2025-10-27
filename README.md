@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/ankinote_icon.png" width="120" alt="AnkiNote logo">
+</p>
+
 # 🧠 AnkiNote — Integrated Markdown Notebook for Anki 25+
 
 **AnkiNote** lets you write and organize Markdown notes *inside* Anki — no external editor, no distractions.  
