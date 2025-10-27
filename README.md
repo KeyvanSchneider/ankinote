@@ -2,7 +2,7 @@
   <img src="screenshots/ankinote_icon.png" width="120" alt="AnkiNote logo">
 </p>
 
-# 🧠 AnkiNote — Integrated Markdown Notebook for Anki 25+
+# AnkiNote, Integrated Markdown Notebook for Anki
 
 **AnkiNote** lets you write and organize Markdown notes *inside* Anki — no external editor, no distractions.  
 It opens in a smooth dockable panel and supports folders, autosave.
@@ -41,7 +41,7 @@ If you enjoy it and want to support its development, you can buy me a coffee ☕
 - 🗂️ **Folders and subfolders**
 - 🔍 **Global search**
 - 💾 **Automatic saving**
-- 🌗 **NO Light/Dark theme adaptation = ONLY WORK WIH LIGHT THEME**
+- 🌗 **NO Light/Dark theme adaptation = !!!!! ONLY WORK WITH LIGHT THEME !!!!!!**
 - 🌐 **Bilingual interface** (🇫🇷 Français / 🇬🇧 English)
 - ⚙️ Works perfectly on **Anki 25.0+ (Qt 6)**, macOS, Windows, Linux
 
