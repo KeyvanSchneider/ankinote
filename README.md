@@ -9,6 +9,19 @@ It opens in a smooth dockable panel and supports folders, autosave.
 
 ---
 
+## 📖 Présentation / Presentation
+
+<p align="center">
+  <img src="screenshots/1027.gif" width="85%" alt="AnkiNote demo">
+</p>
+
+<p align="center">
+  <em>Write, organize, and think — directly inside Anki.</em><br>
+  <em>Écrivez, organisez et réfléchissez — directement dans Anki.</em>
+</p>
+
+---
+
 ## ✨ Features
 
 - 📝 **Markdown note editor** (clean, minimal, autosave)
