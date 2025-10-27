@@ -5,7 +5,7 @@
 # 🧠 AnkiNote — Integrated Markdown Notebook for Anki 25+
 
 **AnkiNote** lets you write and organize Markdown notes *inside* Anki — no external editor, no distractions.  
-It opens in a smooth dockable panel and supports folders, autosave, and light/dark themes.
+It opens in a smooth dockable panel and supports folders, autosave.
 
 ---
 
@@ -15,7 +15,7 @@ It opens in a smooth dockable panel and supports folders, autosave, and light/da
 - 🗂️ **Folders and subfolders**
 - 🔍 **Global search**
 - 💾 **Automatic saving**
-- 🌗 **Light/Dark theme adaptation**
+- 🌗 **NO Light/Dark theme adaptation = ONLY WORK WIH LIGHT THEME**
 - 🌐 **Bilingual interface** (🇫🇷 Français / 🇬🇧 English)
 - ⚙️ Works perfectly on **Anki 25.0+ (Qt 6)**, macOS, Windows, Linux
 
@@ -31,7 +31,6 @@ It opens in a smooth dockable panel and supports folders, autosave, and light/da
 1. Download the latest release from GitHub release.
 2. Unzip the archive.
 3. Move the folder `ankinote` into your Anki addons directory.
-
 4. Restart Anki.
 
 ---
@@ -75,7 +74,7 @@ L’interface est fluide, minimaliste, et multilingue (Français / Anglais).
 - Éditeur Markdown intégré avec sauvegarde automatique
 - Arborescence de dossiers et sous-dossiers
 - Recherche globale
-- Thème clair / sombre automatique
+- Pas de Thème clair / sombre automatique = Fonctionne uniquement avec le thème clair pour le moment.
 - Interface bilingue 🇫🇷 / 🇬🇧
 - Compatible Anki 25+ sur macOS, Windows, Linux
 
